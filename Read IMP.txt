@@ -1,0 +1,3 @@
+Please make sure that 
+all the dependencies are installed,
+the database link is added in the js files. 
